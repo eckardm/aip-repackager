@@ -8,6 +8,8 @@ Dependencies:
   * [p7zip_16.02](https://sourceforge.net/projects/p7zip/)
   
 Example configuration file:
+
+```
 [to-do]
 path = /path/to/TO-DO/dir
 
@@ -19,3 +21,4 @@ path = /path/to/Ready/dir
 
 [p7zip_16.02]
 path = /path/to/p7zip_16.02
+```
